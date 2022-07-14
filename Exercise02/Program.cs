@@ -24,6 +24,7 @@ namespace Exercise02
                     }
 
                     Console.WriteLine(num.ToWords());
+                    Console.WriteLine();
                 }
                 catch (Exception ex)
                 {
